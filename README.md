@@ -1,66 +1,90 @@
-# Ex.No.10
-Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
+# Exno.10-Prompt-Engg
+# Date : 22/10/25
+# Register no: 212223240129
+# Aim: 
+To perform Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-## Date:
-## Reg. No.
-
-## Aim:
+# Algorithm: 
 To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
 
-## Procedure:
-1.	Introduction to Prompt Patterns: Begin by understanding the following prompt patterns:
-○	Query Decomposition: Breaking down complex queries into smaller, actionable parts.
-○	Decision Making: Asking the model to choose between options or directions.
-○	Answer Engineering: Refining outputs by giving detailed instructions on how to structure or format the answer.
-○	Fact Check List: Ensuring the content is factually accurate, especially for reports or case studies.
-○	Tail Generation: Extending the content logically to create depth in storytelling or analysis.
-○	Menu Actions: Presenting multiple action choices and guiding the AI to select one.
-○	Semantic Filter: Applying filters to control the tone, style, and accuracy of the content.
-2.	Choosing the Content Type: Decide on the type of content you want to create. This could be:
-○	Reports (e.g., industry analysis, sustainability reports, etc.)
-○	Case Studies (e.g., business solutions, technological innovations)
-○	Articles (e.g., opinion pieces, educational articles)
-○	Creative Content (e.g., comic book story, short stories, video scripts)
-3.	For example, you could choose a business report on market trends, a case study on a successful startup, or even a story-based prompt like creating a fictional world for a comic.
-4.	Creating the Prompts:
-○	Start with simple prompts to generate initial content.
-○	Gradually refine the prompts, moving toward more complex techniques like decision-making (asking the model to pick one of several options), tail generation (extending the narrative), and semantic filtering (adjusting style or tone).
-5.	Generating and Refining Outputs: Use the model to generate initial drafts, and then refine the outputs using iterative adjustments:
-○	For a report, prompt the model with basic data, then ask for a deeper analysis and insights.
-○	For creative content, refine the initial story idea with specific details on characters, settings, or actions.
-6.	Review and Evaluation: After generating content, evaluate the outputs for:
-○	Coherence: Is the generated content logical and structured?
-○	Creativity/Originality: Is the content engaging and fresh?
-○	Accuracy: Is the content factually accurate (for reports and case studies)?
-○	Tone and Style: Does the content match the intended tone (formal, creative, educational)?
-________________________________________
-Test Case Scenarios for Content Generation: (USE ANY 2)
-content generation scenarios:
-1.	Business Report on Market Trends
-2.	Case Study on Business Success
-3.	Article on Climate Change
-4.	Creative Writing - Sci-Fi Short Story
-5.	Educational Report on Renewable Energy
-6.	Product Launch Announcement
-7.	Travel Blog Post
-8.	Research Paper on Artificial Intelligence
-9.	Interview Transcript for Documentary
-10.	Sustainability Practices in Fashion
-11.	How to Build an E-commerce Website
-12.	Social Issue Awareness Campaign
-13.	Artificial Intelligence Impact on Healthcare
-## Instructions:
-1.	Select a Topic: Choose a topic (e.g., market trends, climate change, sci-fi story) that interests you.
-2.	Use Basic Prompts: Start by crafting simple, general prompts to generate initial content.
-3.	Refine Your Prompts: Gradually introduce more complexity by adding details, refining the structure, and using different prompt techniques like decision making or semantic filtering.
-4.	Evaluate the Output: Review the generated content for clarity, creativity, and accuracy.
-5.	Iterate for Improvement: Based on the feedback, refine the prompts and regenerate the content as needed.
+# Example Demonstration:
 
-## Deliverables:
-1.	First Draft: A basic draft of the report, case study, article, or story generated using simple prompts.
-2.	Refined Content: A more detailed and structured output, achieved by applying more advanced prompt techniques.
-3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
-4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
+Topic: Artificial Intelligence in Education
 
-## Conclusion:
-By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
+⸻
+
+# 1. Query Decomposition Technique
+
+## Prompts:
+	•	Q1: List the major applications of AI in education.
+	•	Q2: List the main challenges faced in AI-based education systems.
+	•	Q3: Combine both sets of information to form a structured article.
+
+## Generated Output:
+
+Title: AI in Education: Transforming the Future of Learning
+
+Artificial Intelligence (AI) is transforming how education is delivered and experienced. It enables personalized learning platforms, smart tutoring systems, and predictive analytics for assessing student performance.
+
+Despite its advantages, AI integration faces challenges such as data privacy issues, high infrastructure costs, and lack of teacher training. Balancing automation with human involvement remains essential.
+
+AI’s growing role in education promises a future of more accessible, adaptive, and inclusive learning.
+
+⸻
+
+# 2. Decision-Making Prompt Technique
+
+## Prompt:
+
+“Write a short report on AI in education. You can either focus on (A) its positive impact or (B) the ethical concerns. Choose the one that creates more meaningful discussion.”
+
+## Generated Output:
+
+Report: Ethical Implications of AI in Education
+
+While AI tools enhance learning, their use raises important ethical questions. Data collected from students can be misused if not properly protected. Moreover, algorithmic bias can disadvantage certain groups of learners.
+
+Institutions must implement transparent AI systems and create strict policies to ensure fairness and accountability. Addressing these ethical challenges will help in maintaining trust in technology-driven education.
+
+⸻
+
+# 3. Semantic Filtering Technique
+
+## Prompt:
+
+“Create an informative article on AI in education, but avoid technical jargon and make it easy to understand for school students.”
+
+## Generated Output:
+
+Article: How AI Helps Students Learn Better
+
+Artificial Intelligence, or AI, is like a smart helper for teachers and students. It can check homework, suggest what to study next, and even help students who are struggling with a topic.
+
+But schools must be careful — computers should not replace teachers, only assist them. With proper use, AI can make learning fun and personal for everyone.
+
+⸻
+
+# 4. Iterative Refinement Technique
+
+## Initial Prompt:
+
+“Write a case study on AI in education.”
+
+## Feedback & Refinement:
+
+“Add a real-life example of an AI-based learning platform and include its impact on students’ performance.”
+
+# Final Output:
+
+Case Study: AI-Driven Personalized Learning: The Duolingo Example
+
+Background: Duolingo, an AI-powered language learning app, uses adaptive algorithms to personalize lessons.
+
+Implementation: The system tracks each learner’s progress and adjusts the difficulty of exercises based on mistakes and strengths.
+
+Outcome: A recent study showed that students using Duolingo improved language proficiency 40% faster than those using traditional methods.
+
+Conclusion: This demonstrates how AI enhances learning efficiency through data-driven personalization.
+
+
+# Result :  The corresponding prompt executed successfully.
